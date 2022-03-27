@@ -1,0 +1,39 @@
+body{
+    padding: 150px;
+}
+#submit-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    padding: 40px;
+}
+
+    /* new page */
+
+#control{
+    display: none;
+}
+
+    /* After login */
+
+    .similar{
+        background-color: brown;
+        color: white;
+        padding: 10px;
+    }
+    .submit-area{
+        margin-top: 50px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px black;
+        padding: 10px;
+    }
+    h4{
+        margin: 5px 0px 0px 10px;
+    }
+    input{
+        margin-top: 10px;
+    }
+    button{
+        position: relative;
+        left: 40%;
+    }    
